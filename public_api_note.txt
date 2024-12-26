@@ -1,0 +1,6 @@
+https://www.chess.com/news/view/published-data-api
+
+https://api.chess.com/pub/player/{username}/games/archives
+
+https://api.chess.com/pub/player/{username}/games/{YYYY}/{MM}
+
